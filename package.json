@@ -1,23 +1,23 @@
 {
   "name": "google-cdn",
   "version": "0.2.4",
-  "description": "Replaces references to resources on the Google CDN",
+  "description": "Replaces references to resources on the Google CDN (forked by lbabb)",
   "keywords": [
     "cdn",
     "google",
     "cdnjs"
   ],
-  "homepage": "https://github.com/passy/google-cdn",
-  "bugs": "https://github.com/passy/google-cdn/issues",
+  "homepage": "https://github.com/lbabb/google-cdn",
+  "bugs": "https://github.com/lbabb/google-cdn/issues",
   "author": {
-    "name": "Pascal Hartig",
-    "email": "phartig@rdrei.net",
-    "url": "http://passy.me"
+    "name": "Larry Babb",
+    "email": "babbula@hotmail.com",
+    "url": ""
   },
   "main": "googlecdn.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/passy/google-cdn.git"
+    "url": "git://github.com/lbabb/google-cdn.git"
   },
   "scripts": {
     "test": "mocha"
